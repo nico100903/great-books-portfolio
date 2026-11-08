@@ -855,18 +855,18 @@ Reading books that focus on improving myself, understanding the world, and explo
  */
 export const summaryOfLearningData = {
   pageTitle: "What Literature Has Taught Me",
-  subtitle: "Intellectual Discoveries, Hermeneutic Tools, and Humanistic Insights",
+  subtitle: "Personal Takeaways, Critical Lenses, and Meaningful Lessons from Literature",
   
-  generalIntroduction: `The Great Books course stands as a transformative cornerstone in my undergraduate education. In an academic discipline like Computer Science—grounded primarily in mathematical formulas, binary architecture, software patterns, and computational optimization—the study of literature opened a vital complementary portal to human complexity. 
+  generalIntroduction: `Taking the Great Books course has been one of the most meaningful parts of my college education. As a Computer Science student, most of my classes focus on code, logic, and technical problem-solving. Reading literature gave me a much-needed balance—opening my eyes to the human side of things, like why people make certain choices and how emotions shape our lives.
 
-Through classical epics, ancient wisdom dialogues, didactic animal fables, and psychological court narratives, I learned that while technology provides the tools to solve specific problems, literature interrogates why we solve them and what kind of world we are building in the process. This synthesis summarizes the foundational competencies, hermeneutic approaches, and humanistic discoveries cultivated across our academic semester.`,
+Through ancient epics, timeless fables, and classic stories, I learned that while technology gives us the tools to build things, literature helps us understand the people we are building them for. This section brings together the key lessons, critical lenses, and personal realizations I gained throughout the semester.`,
 
   subsections: [
     {
       id: "understanding-masterpieces",
       number: "01",
       title: "Understanding Literary Masterpieces",
-      academicOverview: "Engaging with classical texts requires moving past passive reading toward active, disciplined textual interrogation. A literary masterpiece endures across centuries not because it offers simplistic moral answers, but because it articulates fundamental human conflicts with extraordinary nuance, linguistic brilliance, and structural depth. From the cosmic interrogations of Job to the psychological subtleties of Genji, understanding a masterpiece involves decoding cultural contexts, genre conventions, rhetorical tropes, and intertextual echoes.",
+      academicOverview: "Reading classical literature is very different from casually reading a book. A true masterpiece lasts through generations because it tackles real human problems without giving easy or simple answers. Whether it's Job questioning his suffering or Prince Genji navigating complicated emotions, truly understanding these stories means paying attention to their culture, history, and the deeper meanings behind the words.",
       reflectionLabel: "My Classroom Experience & Examples",
       studentReflection: `Throughout my Great Books course, I explored literary masterpieces from different historical periods and cultures. These works helped me understand that literature is more than storytelling because it reflects people's beliefs, traditions, values, and experiences.
 
@@ -878,7 +878,7 @@ Some of the classical works were challenging to understand because of their unfa
       id: "literary-lenses",
       number: "02",
       title: "Application of Literary Lenses",
-      academicOverview: "One of the most powerful analytical methodologies acquired in the course is the rigorous application of literary lenses (critical theories). Critical lenses—including Formalist, Historical-Biographical, Moral-Philosophical, Psychological (Freudian/Jungian), Marxist, Feminist, and Deconstructive approaches—function like multifaceted optical prisms. Each lens illuminates hidden textual layers: power dynamics, repressed anxieties, patriarchal conventions, class struggles, or formal structural balance. Learning to shift between these critical paradigms develops the intellectual flexibility necessary to examine complex systems from multiple perspectives.",
+      academicOverview: "Learning how to apply literary lenses completely changed how I read. Instead of just seeing one version of a story, critical approaches—like moral, psychological, historical, or feminist lenses—let you examine characters and themes from different angles. It taught me intellectual flexibility: knowing that looking at a situation from multiple perspectives gives you a much fuller picture.",
       reflectionLabel: "My Application of Critical Theories",
       studentReflection: `One important thing I learned in Great Books is that literary works can be interpreted in different ways depending on the perspective used. Before taking this course, I usually focused on the storyline and characters. However, learning about literary lenses helped me discover deeper meanings behind the stories.
 
@@ -890,7 +890,7 @@ Through these approaches, I realized that a single literary work can have differ
       id: "reflection-of-humanity",
       number: "03",
       title: "Literature as a Reflection of Humanity",
-      academicOverview: "Despite centuries of technological evolution and societal change, the core emotional architecture of humanity remains remarkably constant. Across disparate geographies and eras—from archaic Greece to feudal France and classical Japan—the Great Books chronicle our universal search for meaning, our dread of mortality, our capacity for catastrophic pride, and our yearning for fellowship, justice, and love. Literature serves as a living mirror of human vulnerability, demonstrating that our modern dilemmas are deeply woven into the historic human condition.",
+      academicOverview: "Even though centuries have passed and technology has changed the world, human nature has stayed remarkably the same. From ancient Greece to medieval France and classical Japan, these stories show our universal search for purpose, fear of loss, struggles with pride, and desire for love and connection. Literature acts like a mirror, reminding us that we aren't alone in what we feel.",
       reflectionLabel: "My Reflections on Human Nature & Society",
       studentReflection: `One of my biggest realizations from Great Books is that literature reflects human emotions, relationships, beliefs, and struggles. Although the masterpieces we studied came from different cultures and historical periods, many of their lessons remain relevant today.
 
@@ -902,7 +902,7 @@ These stories helped me realize that despite differences in culture and time, pe
       id: "critical-thinking",
       number: "04",
       title: "Development of Critical Thinking",
-      academicOverview: "Reading demanding classical literature fosters rigorous critical thinking: the capacity to suspend premature judgment, dissect nuanced subtexts, detect logical fallacies, and synthesize ambiguous moral dilemmas. Unlike straightforward algorithmic problems with single deterministic solutions, literature confronts the mind with productive contradictions. This analytical discipline directly enriches scientific inquiry and software development, instilling an appreciation for holistic reasoning, ethical responsibility, and nuanced problem formulation.",
+      academicOverview: "Analyzing classical literature helped sharpen my critical thinking in ways I didn't expect. Unlike programming problems that often have one right answer or clear logic, literature deals with dilemmas that don't always have simple solutions. It taught me to hold off on quick judgments, look at the evidence, and think carefully—skills that are just as valuable in Computer Science as they are in everyday life.",
       reflectionLabel: "My Growth in Critical Thinking & Problem Solving",
       studentReflection: `Throughout Great Books, I realized that reading and analyzing literary works helped improve my critical-thinking skills. I learned to look beyond the storyline, examine characters' motivations, understand themes, and consider different interpretations before forming conclusions.
 
@@ -917,23 +917,23 @@ Overall, Great Books taught me to become more patient, open-minded, and thoughtf
   keyTakeaways: [
     {
       icon: "Brain",
-      title: "Cognitive Empathy",
-      description: "Stepping into the psychological interior of diverse characters expands moral imagination and emotional intelligence."
+      title: "Empathy & Understanding",
+      description: "Stepping into different characters' shoes helped me understand diverse emotions, struggles, and viewpoints."
     },
     {
       icon: "Eye",
-      title: "Multidimensional Perspective",
-      description: "Literary lenses prove that no single viewpoint monopolizes truth; complex phenomena demand multiple analytical angles."
+      title: "Multiple Perspectives",
+      description: "Literary lenses proved that no single viewpoint has all the answers; complex situations require looking at things from different angles."
     },
     {
       icon: "ShieldAlert",
       title: "Ethical Awareness",
-      description: "Technological systems operate in human societies; literature clarifies the moral consequences of human creation."
+      description: "Technology impacts real people; studying literature reminded me to think about the human and moral consequences of what we create."
     },
     {
       icon: "Feather",
-      title: "Eloquence & Precision",
-      description: "Mastery of close textual analysis directly sharpens oral expression, technical documentation, and persuasive rhetoric."
+      title: "Clear Thinking & Expression",
+      description: "Carefully analyzing stories helped sharpen how I articulate ideas, write documentation, and communicate with others."
     }
   ]
 };
