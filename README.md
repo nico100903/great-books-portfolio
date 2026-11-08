@@ -1,6 +1,6 @@
 # 📖 My Literary Journey — Great Books Digital Portfolio
 
-> **A digital humanities portfolio documenting the exploration of world literary masterpieces, critical lenses, and personal reflections.**
+> **My personal portfolio exploring world literature, classical epics, critical lenses, and the meaningful lessons they teach us about life.**
 
 ---
 

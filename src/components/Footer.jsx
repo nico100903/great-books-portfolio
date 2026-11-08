@@ -32,7 +32,7 @@ export default function Footer() {
             </div>
             
             <p className="text-sm text-ivory/70 leading-relaxed font-light">
-              A digital humanities portfolio documenting the exploration of world literature, classical epics, critical lenses, and timeless human wisdom.
+              My personal portfolio exploring world literature, classical epics, critical lenses, and the meaningful lessons they teach us about life.
             </p>
 
             <div className="pt-2 text-xs text-ivory/60 space-y-1">
