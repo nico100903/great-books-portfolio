@@ -16,7 +16,7 @@ import {
   ChevronLeft,
   ChevronRight
 } from 'lucide-react';
-import { literaryWorks } from '../data/portfolioData';
+import { literaryWorks, studentInfo } from '../data/portfolioData';
 import PlaceholderBadge from '../components/PlaceholderBadge';
 
 export default function LiteraryWorkDetail() {
