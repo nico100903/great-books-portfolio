@@ -365,13 +365,13 @@ export default function Home() {
           <div className="rounded-2xl border-2 border-forest/20 bg-forest text-ivory p-8 sm:p-10 shadow-book flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
               <span className="text-xs uppercase tracking-widest text-gold-light font-semibold block">
-                Academic Submission Complete
+                Academic Portfolio Complete
               </span>
               <h3 className="font-serif text-2xl sm:text-3xl font-bold text-ivory">
-                Complete Scholarly Portfolio
+                My Complete Literary Journey
               </h3>
               <p className="text-sm text-ivory/80 font-light max-w-xl">
-                All seven classical literary masterpieces now feature comprehensive textual analyses, applied critical lenses, and personal scholarly reflections by {studentInfo.name}.
+                All seven classical literary masterpieces now feature my original textual analyses, applied critical lenses, and personal reflections from our Great Books course.
               </p>
             </div>
 

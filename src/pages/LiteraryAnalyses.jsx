@@ -210,7 +210,7 @@ export default function LiteraryAnalyses() {
       {/* Curriculum Note */}
       <div className="rounded-2xl bg-beige/40 border border-beige-dark/60 p-6 text-center max-w-2xl mx-auto">
         <p className="text-xs text-charcoal-muted leading-relaxed">
-          <strong className="text-forest font-semibold">Curriculum Scope:</strong> This collection encompasses the seven masterpieces explored in the Great Books course. Each work includes historical backgrounds, character studies, and Nathaniel's original critical lens analysis and academic essay.
+          <strong className="text-forest font-semibold">About This Collection:</strong> These are the seven masterpieces we studied in our Great Books course. For each work, I've put together its historical background, key characters, and my own literary lens analysis and reflections.
         </p>
       </div>
 

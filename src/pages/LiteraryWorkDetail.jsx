@@ -314,7 +314,7 @@ export default function LiteraryWorkDetail() {
             My Academic Analysis & Applied Literary Lens
           </h2>
           <p className="text-xs sm:text-sm text-charcoal-muted mt-1 font-light">
-            Critical literary lens evaluation and scholarly textual analysis by {studentInfo.name}.
+            My critical literary lens evaluation and scholarly textual analysis.
           </p>
         </div>
 
