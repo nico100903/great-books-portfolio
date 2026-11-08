@@ -365,13 +365,13 @@ export default function Home() {
           <div className="rounded-2xl border-2 border-forest/20 bg-forest text-ivory p-8 sm:p-10 shadow-book flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
               <span className="text-xs uppercase tracking-widest text-gold-light font-semibold block">
-                Academic Portfolio Guarantee
+                Academic Submission Complete
               </span>
               <h3 className="font-serif text-2xl sm:text-3xl font-bold text-ivory">
-                Authentic Academic Workspaces
+                Complete Scholarly Portfolio
               </h3>
               <p className="text-sm text-ivory/80 font-light max-w-xl">
-                Every literary work contains dedicated placeholders ready for inserting official classroom analyses, critical lens frameworks, and personal reflections without fabricated submissions.
+                All seven classical literary masterpieces now feature comprehensive textual analyses, applied critical lenses, and personal scholarly reflections by {studentInfo.name}.
               </p>
             </div>
 

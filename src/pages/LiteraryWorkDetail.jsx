@@ -314,36 +314,65 @@ export default function LiteraryWorkDetail() {
             My Academic Analysis & Applied Literary Lens
           </h2>
           <p className="text-xs sm:text-sm text-charcoal-muted mt-1 font-light">
-            These sections are reserved for inserting your original school assignments, chosen critical lenses, and detailed textual analyses.
+            Critical literary lens evaluation and scholarly textual analysis by {studentInfo.name}.
           </p>
         </div>
 
-        {/* Literary Lens Placeholder */}
+        {/* Literary Lens */}
         <div className="space-y-3">
-          <h3 className="font-serif text-xl font-bold text-forest flex items-center space-x-2">
-            <span>Literary Lens Applied:</span>
-          </h3>
+          <div className="flex items-center space-x-2 text-xs font-semibold uppercase tracking-wider text-gold-dark">
+            <BookmarkCheck className="w-4 h-4" />
+            <span>Applied Literary Lens: {work.appliedLensTitle || "Awaiting Selection"}</span>
+          </div>
 
-          <PlaceholderBadge
-            label="Applied Critical Literary Lens"
-            placeholderText={`Literary Lens: ${work.literaryLensPlaceholder}`}
-            guidanceText={work.lensGuidance}
-            dataFileReference={`src/data/portfolioData.js -> literaryWorks[id="${work.id}"].literaryLensPlaceholder`}
-          />
+          {work.appliedLensDescription ? (
+            <div className="rounded-2xl border-l-4 border-gold bg-gradient-to-br from-beige/40 via-ivory-light to-amber-50/40 p-6 sm:p-8 shadow-xs text-charcoal/90 text-sm sm:text-base font-light leading-relaxed">
+              <h4 className="font-serif text-lg font-bold text-forest mb-2">
+                {work.appliedLensTitle}
+              </h4>
+              <p>{work.appliedLensDescription}</p>
+            </div>
+          ) : (
+            <PlaceholderBadge
+              label="Applied Critical Literary Lens"
+              placeholderText={`Literary Lens: ${work.literaryLensPlaceholder}`}
+              guidanceText={work.lensGuidance}
+              dataFileReference={`src/data/portfolioData.js -> literaryWorks[id="${work.id}"].literaryLensPlaceholder`}
+            />
+          )}
         </div>
 
-        {/* Complete Literary Analysis Placeholder */}
+        {/* Complete Literary Analysis */}
         <div className="space-y-3">
-          <h3 className="font-serif text-xl font-bold text-forest flex items-center space-x-2">
-            <span>Complete Literary Analysis:</span>
-          </h3>
+          <div className="flex items-center space-x-2 text-xs font-semibold uppercase tracking-wider text-gold-dark">
+            <Feather className="w-4 h-4" />
+            <span>Complete Literary Analysis</span>
+          </div>
 
-          <PlaceholderBadge
-            label="Complete Original Academic Analysis"
-            placeholderText={`Complete Literary Analysis: ${work.analysisPlaceholder}`}
-            guidanceText={work.analysisGuidance}
-            dataFileReference={`src/data/portfolioData.js -> literaryWorks[id="${work.id}"].analysisPlaceholder`}
-          />
+          {work.fullAnalysis ? (
+            <div className="rounded-3xl border border-beige-dark/80 bg-ivory-light p-7 sm:p-10 shadow-book space-y-5 text-charcoal/90 text-base sm:text-lg font-light leading-relaxed">
+              <h3 className="font-serif text-2xl sm:text-3xl font-bold text-forest border-b border-beige-dark/50 pb-3">
+                {work.title}
+              </h3>
+              {work.fullAnalysis.split('\n\n').map((paragraph, pIdx) => (
+                <p key={pIdx} className={pIdx === 0 ? "dropcap" : ""}>
+                  {paragraph}
+                </p>
+              ))}
+
+              <div className="pt-4 border-t border-beige-dark/60 flex items-center justify-between text-xs text-charcoal-muted">
+                <span>Analysis by <strong className="text-forest">Nathaniel Jr. S. Alcantara</strong></span>
+                <span>Great Books Portfolio</span>
+              </div>
+            </div>
+          ) : (
+            <PlaceholderBadge
+              label="Complete Original Academic Analysis"
+              placeholderText={`Complete Literary Analysis: ${work.analysisPlaceholder}`}
+              guidanceText={work.analysisGuidance}
+              dataFileReference={`src/data/portfolioData.js -> literaryWorks[id="${work.id}"].analysisPlaceholder`}
+            />
+          )}
         </div>
 
       </section>

@@ -110,7 +110,22 @@ The divine voice challenges Job to measure the dimensions of the earth, command 
 
     literarySignificance: `Job 38 is heralded worldwide as an unprecedented masterpiece of sublime ancient poetry. Its rhythm, dramatic pacing, and vivid cosmological imagery directly influenced John Milton's *Paradise Lost*, William Blake's illustrations, and modern existentialist thought. It refuses facile moral reductions, providing a timeless meditation on suffering, faith, and cosmic proportion.`,
 
-    // Academic Placeholders for Nathaniel's Work
+    // Academic Submissions for Nathaniel's Work
+    appliedLensTitle: "Theological Lens",
+    appliedLensDescription: "The Theological Lens examines how a literary work explores God, faith, divine wisdom, human limitations, and the relationship between humanity and the divine. This lens is appropriate for Job 38 because God speaks to Job through the whirlwind, challenging his understanding of creation and reminding him that human knowledge is limited compared to divine wisdom.",
+    
+    fullAnalysis: `The passage from Job 38 presents an important moment in the Book of Job, where God finally responds to Job out of a whirlwind. Throughout the earlier chapters, Job experiences tremendous suffering and questions why such hardships have happened to him despite his faithfulness. He struggles to understand the reason behind his suffering and seeks answers about God's justice. However, instead of directly explaining why these events happened, God responds by questioning Job about the creation and order of the universe.
+
+Using the Theological Lens, Job 38 emphasizes the difference between divine wisdom and human understanding. God asks Job where he was when the foundations of the earth were established and whether he understands how the natural world operates. These questions demonstrate that human beings have limited knowledge of the universe and cannot fully comprehend everything that happens in life. The passage reminds readers that God's understanding extends far beyond human reasoning.
+
+Another important theme in this chapter is humility. Job's suffering leads him to question the fairness of his situation, which is understandable considering the pain he has experienced. However, God's response encourages him to recognize that there are aspects of existence beyond his understanding. This does not necessarily mean that questioning or seeking answers is wrong. Rather, the passage highlights the importance of recognizing the limits of human knowledge when facing complicated situations.
+
+Job 38 also presents creation as evidence of divine power and wisdom. Through descriptions of the earth, sea, light, darkness, weather, and other natural elements, God demonstrates the complexity and order of creation. These descriptions emphasize that the universe operates through a wisdom that humans cannot completely control or understand.
+
+From a personal perspective, this chapter reminds me that not everything in life will have an immediate explanation. As a student, there are times when I encounter difficult situations or problems that I cannot easily understand. This passage encourages me to remain humble, patient, and open-minded rather than assuming that I already know everything. It also reminds me that having questions is part of learning, but accepting that some things are beyond my understanding is equally important.
+
+As a whole, Job 38 teaches that human knowledge has limitations, while divine wisdom is greater than what people can comprehend. Through the Theological Lens, the passage encourages faith, humility, and respect for the complexity of creation. Its message remains meaningful because it reminds readers that understanding life requires not only knowledge but also patience and humility.`,
+
     literaryLensPlaceholder: "[INSERT MY LITERARY LENS]",
     analysisPlaceholder: "[INSERT MY ORIGINAL ANALYSIS]",
     
@@ -186,7 +201,24 @@ The work pioneered the sophisticated nested frame-story narrative technique—ta
 
     literarySignificance: `The *Panchatantra* is one of the most translated and influential secular literary works in human history. Beyond entertaining moral fables, it represents a profound psychological treatise on human motivation, institutional politics, survival instincts, and the enduring power of narrative pedagogy.`,
 
-    // Academic Placeholders for Nathaniel's Work
+    // Academic Submissions for Nathaniel's Work
+    appliedLensTitle: "Moral-Philosophical Lens",
+    appliedLensDescription: "The Moral-Philosophical Lens examines the values, ethical principles, and life lessons presented in a literary work. This approach is suitable for The Panchatantra because its stories teach readers about wisdom, honesty, friendship, trust, intelligence, and the importance of making responsible decisions.",
+
+    fullAnalysis: `The Panchatantra is a collection of ancient Indian fables traditionally attributed to Vishnu Sharma. It uses stories, often featuring talking animals, to communicate practical wisdom and moral lessons. Through entertaining narratives and relatable situations, the work teaches readers about human behavior, relationships, leadership, and decision-making.
+
+Using the Moral-Philosophical Lens, The Panchatantra demonstrates how wisdom and good judgment are important in everyday life. Many of its stories show characters facing difficult situations where their decisions determine what happens next. Some characters succeed because they use intelligence and carefully consider their actions, while others experience problems because of dishonesty, greed, pride, or poor judgment.
+
+One important lesson from the collection is that intelligence is not always measured by physical strength or authority. A character who thinks carefully and understands a situation may overcome someone who appears more powerful. This teaches readers that knowledge, patience, and practical thinking are valuable qualities when dealing with challenges.
+
+Another important theme is friendship and trust. The stories demonstrate that relationships require honesty, loyalty, and careful judgment. Trusting the wrong person or acting without considering the consequences can lead to misunderstandings and conflict. This reminds readers to be mindful of the people they trust and the decisions they make.
+
+The collection also explores the consequences of human behavior. Greed, deception, arrogance, and selfishness often create problems for the characters. On the other hand, wisdom, cooperation, and honesty can lead to better outcomes. Through these examples, the stories encourage readers to reflect on their own actions and understand how their decisions can affect others.
+
+From my perspective, I appreciate The Panchatantra because its lessons are simple to understand but meaningful in real life. Even though many of its stories involve animals, their behavior represents situations that people experience in everyday society. As a student, I can relate its lessons to making responsible decisions, thinking carefully before acting, and learning from mistakes.
+
+As a whole, The Panchatantra teaches that wisdom is not simply about knowing many things but also about knowing how to apply that knowledge in different situations. Through the Moral-Philosophical Lens, the collection reminds readers that good judgment, honesty, and responsible behavior are important in building relationships and facing life's challenges.`,
+
     literaryLensPlaceholder: "[INSERT MY LITERARY LENS]",
     analysisPlaceholder: "[INSERT MY ORIGINAL ANALYSIS]",
 
@@ -264,7 +296,24 @@ When Duryodhana adamantly refuses to return even five villages of land, all peac
 
     literarySignificance: `The *Mahabharata* is not simply an epic; it is a monumental mirror held up to human consciousness. It rejects easy black-and-white moral judgments, presenting deeply flawed heroes and sympathetic antagonists, probing every facet of governance, devotion, loss, and existential duty.`,
 
-    // Academic Placeholders for Nathaniel's Work
+    // Academic Submissions for Nathaniel's Work
+    appliedLensTitle: "Moral-Philosophical Lens",
+    appliedLensDescription: "The Moral-Philosophical Lens examines the ethical values, beliefs, responsibilities, and moral conflicts presented in a literary work. This approach is appropriate for The Mahabharata because it explores the struggle between right and wrong, the importance of fulfilling one's duties, and the challenges of making decisions when personal interests conflict with moral responsibilities.",
+
+    fullAnalysis: `The Mahabharata is one of the greatest ancient Indian epics, traditionally attributed to the sage Vyasa. It tells the story of the conflict between two groups of cousins, the Pandavas and the Kauravas, whose rivalry eventually leads to the great Kurukshetra War. Beyond its epic battles and heroic characters, the story explores important questions about morality, family, justice, loyalty, and human responsibility.
+
+Using the Moral-Philosophical Lens, The Mahabharata demonstrates that making the right decision is not always easy. Throughout the story, characters face situations where their personal feelings, family relationships, and responsibilities conflict with what they believe is morally correct. These struggles show that human decisions often involve difficult consequences.
+
+One important example is Arjuna's hesitation before the Kurukshetra War. He struggles with the idea of fighting against his own relatives, teachers, and loved ones. His situation raises an important question: should a person follow their duty even when doing so causes emotional suffering? Through Krishna's guidance in the Bhagavad Gita, the epic explores the importance of duty, righteous action, and fulfilling responsibilities without being controlled by personal attachment to the results.
+
+Another important theme is justice and the consequences of greed and ambition. The rivalry between the Pandavas and Kauravas demonstrates how jealousy, selfishness, and the desire for power can destroy relationships and create suffering. Their conflict reminds readers that personal ambition without moral responsibility can lead to serious consequences.
+
+The epic also explores the complexity of human nature. Its characters are not always completely good or completely evil. They experience doubts, make mistakes, and face difficult choices. This makes the story meaningful because it reflects the reality that people are sometimes caught between competing values and responsibilities.
+
+Personally, I find the lessons of The Mahabharata meaningful because they remind me that decisions should not be based only on personal interests or emotions. As a student, I believe responsibility, honesty, and fairness are important in dealing with academic challenges and relationships with others. The story also reminds me that doing what is right can sometimes require courage, even when the decision is difficult.
+
+Overall, The Mahabharata teaches that morality is not always simple and that every decision carries consequences. Through the Moral-Philosophical Lens, the epic encourages readers to reflect on their responsibilities, understand the importance of justice, and consider the effects of their actions on others.`,
+
     literaryLensPlaceholder: "[INSERT MY LITERARY LENS]",
     analysisPlaceholder: "[INSERT MY ORIGINAL ANALYSIS]",
 
@@ -341,6 +390,24 @@ Without Achilles, the Achaean front crumbles. Desperate to rally the Greeks, Ach
     ],
 
     literarySignificance: `The *Iliad* laid the architectural foundation for European dramatic and poetic structure. From its extended epic similes to its complex exploration of fate, mortality, and compassion, it continues to serve as world literature's most unflinching meditation on human glory and vulnerability.`,
+
+    // Academic Submissions for Nathaniel's Work
+    appliedLensTitle: "Humanist Lens",
+    appliedLensDescription: "The Humanist Lens focuses on human experiences, emotions, values, relationships, and personal struggles. It examines how characters represent different aspects of humanity, including their strengths, weaknesses, decisions, and moral responsibilities. This lens is appropriate for The Iliad because the epic portrays how pride, anger, love, honor, and grief influence human behavior, especially during times of conflict.",
+
+    fullAnalysis: `The Iliad is an ancient Greek epic poem traditionally attributed to Homer. It focuses on the Trojan War, particularly the anger of Achilles and its consequences for the Greek warriors and the people of Troy. The story explores themes of honor, pride, revenge, friendship, courage, and the suffering caused by war.
+
+Using the Humanist Lens, The Iliad reveals the complexity of human nature through the actions and emotions of its characters. Although the characters are known for their strength and bravery, they also experience anger, jealousy, grief, and personal struggles. This shows that even powerful heroes are not free from human weaknesses.
+
+One important example is Achilles, whose anger becomes a major force throughout the epic. His conflict with Agamemnon causes him to withdraw from battle, placing the Greek army in a difficult position. His actions demonstrate how excessive pride and anger can affect not only an individual but also the people around them. Through Achilles, readers can understand the importance of controlling emotions and considering the consequences of personal decisions.
+
+Another significant character is Hector, the Trojan prince who fights to defend his family and homeland. Unlike Achilles, whose actions are strongly influenced by personal honor and anger, Hector is also motivated by responsibility and love for his family. His character represents courage, loyalty, and the willingness to sacrifice for others. His farewell to his wife, Andromache, reveals the personal suffering that exists behind the glory of war.
+
+The epic also demonstrates that war is not simply about victory and heroism. It involves loss, fear, suffering, and the destruction of human relationships. The encounter between Achilles and King Priam is especially meaningful because it shows how grief can create understanding even between enemies. When Priam asks for the body of his son Hector, Achilles recognizes their shared experience of losing someone they love. This moment highlights compassion and the humanity that can exist even during conflict.
+
+From my perspective, The Iliad teaches me that emotions and personal decisions can have significant consequences. It reminds me that pride should not be more important than understanding others and that strength is not only measured by physical power but also by compassion and self-control.
+
+Overall, The Iliad presents a powerful picture of human nature through its characters, conflicts, and emotional struggles. Through the Humanist Lens, the epic reminds readers that despite differences in status, power, and background, people share common experiences of love, anger, suffering, and loss. Its lessons remain relevant because these emotions and struggles are still part of human life today.`,
 
     // Academic Placeholders for Nathaniel's Work
     literaryLensPlaceholder: "[INSERT MY LITERARY LENS]",
@@ -420,6 +487,24 @@ Through nonlinear narrative and captivating first-person flashbacks in the court
 
     literarySignificance: `The *Odyssey* is the archetypal wanderer's tale that shaped the hero's journey in world literature. Pioneering nonlinear structure, interior monologues, unreliable narration, and the myth of home, it influenced James Joyce's *Ulysses*, Dante's *Inferno*, and countless cinematic and literary adaptations.`,
 
+    // Academic Submissions for Nathaniel's Work
+    appliedLensTitle: "Archetypal Lens",
+    appliedLensDescription: "The Archetypal Lens examines recurring symbols, characters, and patterns found in literature across different cultures and generations. It is appropriate for The Odyssey because Odysseus represents the archetypal hero who faces numerous trials, overcomes obstacles, and experiences personal growth throughout his journey. His adventure reflects universal human experiences such as perseverance, self-discovery, sacrifice, and the desire to find one's way home.",
+
+    fullAnalysis: `The Odyssey is an ancient Greek epic poem traditionally attributed to Homer. It tells the story of Odysseus, a Greek hero who struggles to return to his homeland of Ithaca after the Trojan War. His journey takes many years and exposes him to dangerous creatures, powerful gods, unexpected temptations, and difficult challenges. Meanwhile, his wife, Penelope, and son, Telemachus, wait for his return.
+
+Using the Archetypal Lens, The Odyssey represents the traditional hero's journey. Odysseus begins as a warrior returning from war, but his journey becomes a test of his intelligence, courage, patience, and determination. His experiences show that becoming a hero involves more than physical strength; it also requires wisdom and the ability to overcome personal weaknesses.
+
+One important example is Odysseus's encounter with the Cyclops Polyphemus. Instead of relying entirely on physical strength, he uses intelligence and careful planning to escape. This demonstrates that wisdom and strategic thinking can be more effective than force when facing difficult situations.
+
+Another important part of the epic is the temptation Odysseus encounters during his journey. His experiences with Circe and Calypso demonstrate how desires and distractions can prevent someone from reaching their goals. Despite these obstacles, his desire to return to Ithaca and reunite with his family remains strong.
+
+The idea of homecoming is also central to the story. Ithaca represents more than a physical destination; it symbolizes belonging, family, identity, and the completion of a long personal journey. Odysseus's return reminds readers that reaching an important goal often requires patience, sacrifice, and perseverance.
+
+From my perspective, The Odyssey is meaningful because I can relate Odysseus's journey to the challenges people experience in pursuing their goals. As a fourth-year Computer Science student, I understand that reaching an important destination requires continuous effort, learning, and determination. There are challenges along the way, but giving up should not be the first response whenever difficulties arise.
+
+Overall, The Odyssey teaches that every journey involves obstacles and opportunities for growth. Through the Archetypal Lens, Odysseus represents the human desire to overcome challenges, discover oneself, and return to what truly matters. Its message reminds readers that success is not only about reaching a destination but also about the lessons learned throughout the journey.`,
+
     // Academic Placeholders for Nathaniel's Work
     literaryLensPlaceholder: "[INSERT MY LITERARY LENS]",
     analysisPlaceholder: "[INSERT MY ORIGINAL ANALYSIS]",
@@ -498,6 +583,22 @@ When the 20,000 rear troops are overwhelmed by an army of hundreds of thousands,
 
     literarySignificance: `*The Song of Roland* crystallized the medieval chivalric ideal, defining the French national epic tradition. It stands as a profound study in the tragic price of human hubris, the nature of comradeship, and the cultural worldview of medieval feudal Europe.`,
 
+    // Academic Submissions for Nathaniel's Work
+    appliedLensTitle: "Historical-Cultural Lens",
+    appliedLensDescription: "The Historical-Cultural Lens examines how a literary work reflects the historical events, beliefs, traditions, and social values of the period in which it was written. This approach is appropriate for The Song of Roland because the epic reflects the ideals of medieval European society, particularly the importance of loyalty to one's king, religious devotion, bravery, and honor.",
+
+    fullAnalysis: `The Song of Roland is an anonymous medieval French epic poem that tells the story of Roland, a brave knight serving Charlemagne, the King of the Franks. The narrative focuses on the Battle of Roncevaux Pass, where Roland and his fellow soldiers face an ambush by enemy forces while protecting the rear of Charlemagne's army. Despite being greatly outnumbered, Roland refuses to surrender and continues fighting with courage and determination.
+
+Using the Historical-Cultural Lens, the epic reflects the values and beliefs of medieval European society. During this period, loyalty to one's ruler, religious faith, military service, and personal honor were considered important qualities. These values are clearly demonstrated through Roland's dedication to Charlemagne and his willingness to sacrifice his life for his king and fellow soldiers.
+
+One important theme in the story is loyalty. Roland remains committed to his responsibilities as a knight even when facing overwhelming danger. His actions demonstrate the importance of serving one's leader and fulfilling one's obligations. However, his refusal to blow his horn, the oliphant, to request assistance also shows how excessive pride can influence decision-making. This suggests that courage must be balanced with wisdom.
+
+Another significant theme is religious faith. The epic presents Christianity as an important part of the characters' identity and worldview. Their understanding of their responsibilities is strongly connected to their religious beliefs. This reflects the influence of Christianity on medieval European culture and literature.
+
+The story also emphasizes honor and sacrifice. Roland and his companions demonstrate bravery by continuing to defend their position despite knowing that they may not survive. Their actions represent the medieval ideal of a noble warrior who places duty and loyalty above personal safety.
+
+From my perspective, The Song of Roland reminds me that loyalty, courage, and responsibility are important values in life. However, I also realized that making wise decisions is just as important as being brave. As a student, I can apply these lessons by remaining committed to my responsibilities while also considering the consequences of my actions.`,
+
     // Academic Placeholders for Nathaniel's Work
     literaryLensPlaceholder: "[INSERT MY LITERARY LENS]",
     analysisPlaceholder: "[INSERT MY ORIGINAL ANALYSIS]",
@@ -575,6 +676,22 @@ Haunted by the memory of his deceased mother, Genji pursues illicit liaisons—m
     ],
 
     literarySignificance: `*The Tale of Genji* is universally acclaimed as the supreme masterpiece of Japanese classical literature. Anticipating modern psychological fiction by nearly eight centuries, Murasaki Shikibu created a breathtakingly complex tapestry of human desire, grief, aesthetics, and metaphysical transience.`,
+
+    // Academic Submissions for Nathaniel's Work
+    appliedLensTitle: "Psychological Lens",
+    appliedLensDescription: "The Psychological Lens examines the emotions, thoughts, motivations, desires, and internal conflicts of literary characters. This approach is appropriate for The Tale of Genji because the story provides a deep exploration of human relationships and the emotional struggles experienced by individuals. It allows readers to understand how personal desires, jealousy, love, and social expectations influence the characters' decisions and behavior.",
+
+    fullAnalysis: `The Tale of Genji is a classical Japanese literary work written by Murasaki Shikibu during the Heian period. It follows the life and romantic experiences of Hikaru Genji, the son of an emperor. Throughout the narrative, Genji experiences different relationships, personal struggles, and changes in social circumstances. The story provides a detailed portrayal of court life, romantic relationships, and the emotional complexities of people living in aristocratic Japanese society.
+
+Using the Psychological Lens, The Tale of Genji reveals how human emotions and personal desires influence people's actions. Genji's relationships demonstrate how love, attraction, jealousy, and emotional attachment can affect individuals and the people around them. Although he is admired for his appearance and social position, his personal relationships are often complicated by his desires and decisions.
+
+One important aspect of the novel is its exploration of love and emotional attachment. Genji develops relationships with different women, but these relationships do not always lead to happiness. Some characters experience loneliness, jealousy, and emotional suffering because of complicated romantic situations. This demonstrates that love can bring happiness but can also create pain when expectations and desires are not fulfilled.
+
+Another important theme is the influence of society on personal relationships. During the Heian period, social status, family background, and cultural expectations played important roles in people's lives. The characters' decisions are often influenced not only by their emotions but also by the restrictions and expectations of their society. This shows how external circumstances can affect personal freedom and relationships.
+
+The novel also explores the impermanence of life and human experiences. Relationships change, beauty fades, and people experience loss as time passes. These ideas encourage readers to recognize that happiness and personal circumstances are not permanent.
+
+From my perspective, The Tale of Genji helped me understand that human relationships are complicated and that people have different emotions, desires, and struggles. It reminds me that understanding others requires empathy and consideration of their feelings. I also learned that personal decisions can affect not only ourselves but also the people around us.`,
 
     // Academic Placeholders for Nathaniel's Work
     literaryLensPlaceholder: "[INSERT MY LITERARY LENS]",

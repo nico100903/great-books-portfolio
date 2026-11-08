@@ -189,8 +189,8 @@ export default function LiteraryAnalyses() {
 
               {/* Bottom Action Button */}
               <div className="pt-4 border-t border-beige-dark/50 flex items-center justify-between">
-                <span className="text-xs text-charcoal-muted">
-                  Includes Academic Placeholders
+                <span className="inline-flex items-center space-x-1 text-[11px] font-medium text-forest bg-forest/10 px-2 py-0.5 rounded-md">
+                  <span>{work.appliedLensTitle || "Full Analysis Included"}</span>
                 </span>
 
                 <Link
@@ -210,7 +210,7 @@ export default function LiteraryAnalyses() {
       {/* Curriculum Note */}
       <div className="rounded-2xl bg-beige/40 border border-beige-dark/60 p-6 text-center max-w-2xl mx-auto">
         <p className="text-xs text-charcoal-muted leading-relaxed">
-          <strong className="text-forest font-semibold">Curriculum Scope:</strong> This collection strictly encompasses the seven masterpieces explored in the Great Books course. Each work includes complete literary overviews and designated assignment placeholders for student analysis.
+          <strong className="text-forest font-semibold">Curriculum Scope:</strong> This collection encompasses the seven masterpieces explored in the Great Books course. Each work includes historical backgrounds, character studies, and Nathaniel's original critical lens analysis and academic essay.
         </p>
       </div>
 
