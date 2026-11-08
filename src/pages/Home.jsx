@@ -206,7 +206,7 @@ export default function Home() {
               </div>
 
               <p className="text-sm sm:text-base text-charcoal-muted leading-relaxed font-light text-left sm:text-center pt-2">
-                As a Computer Science senior, exploring the Great Books offered an essential counterweight to algorithms and software engineering. Here lies the confluence of logic and human soul—revealing how storytelling across millennia continues to shape moral dilemmas, philosophical inquiries, and empathetic thinking.
+                As a fourth-year Computer Science student, most of my days are spent dealing with code, logic, and technical problems. Reading the Great Books gave me a refreshing balance—reminding me that beyond algorithms and technology, understanding human nature, values, and the lessons passed down through timeless stories is what truly matters.
               </p>
 
             </div>
@@ -223,9 +223,9 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
           <SectionHeader
-            badge="Portfolio Architecture"
+            badge="Portfolio Overview"
             title="Explore the Portfolio Sections"
-            subtitle="Navigate through the comprehensive modules documenting personal background, literary analyses, featured masterpiece, pedagogical synthesis, and personal reflections."
+            subtitle="Explore each part of my portfolio—from my student profile and literary analyses to my key takeaways, personal reflections, and favorite masterpiece."
           />
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">

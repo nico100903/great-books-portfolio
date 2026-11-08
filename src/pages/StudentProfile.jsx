@@ -110,12 +110,12 @@ export default function StudentProfile() {
               </div>
             </div>
 
-            {/* Technology & Humanities Confluence Callout */}
+            {/* Technology & Humanities Callout */}
             <div className="p-4 rounded-xl bg-sage-faint border border-sage/40 flex items-start space-x-3 text-xs sm:text-sm text-forest leading-relaxed">
               <Code2 className="w-5 h-5 text-forest shrink-0 mt-0.5" />
               <div>
-                <strong className="font-semibold block mb-0.5">The Computer Science & Literature Synthesis:</strong>
-                As a Computer Science senior, algorithmic thinking structures my analytical rigor, while Great Books deepens my human empathy, ethical insight, and critical interpretation of complex human narratives.
+                <strong className="font-semibold block mb-0.5">Balancing Technology & Literature:</strong>
+                Computer Science taught me how to solve problems with logic and structure, while reading the Great Books helped me see the human side of life—teaching me empathy, values, and how to understand different perspectives.
               </div>
             </div>
 

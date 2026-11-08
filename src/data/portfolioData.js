@@ -108,7 +108,7 @@ The divine voice challenges Job to measure the dimensions of the earth, command 
       }
     ],
 
-    literarySignificance: `Job 38 is heralded worldwide as an unprecedented masterpiece of sublime ancient poetry. Its rhythm, dramatic pacing, and vivid cosmological imagery directly influenced John Milton's *Paradise Lost*, William Blake's illustrations, and modern existentialist thought. It refuses facile moral reductions, providing a timeless meditation on suffering, faith, and cosmic proportion.`,
+    literarySignificance: `Job 38 is heralded worldwide as an unprecedented masterpiece of sublime ancient poetry. Its rhythm, dramatic pacing, and vivid cosmological imagery directly influenced John Milton's Paradise Lost, William Blake's illustrations, and modern existentialist thought. It refuses facile moral reductions, providing a timeless meditation on suffering, faith, and cosmic proportion.`,
 
     // Academic Submissions for Nathaniel's Work
     appliedLensTitle: "Theological Lens",
@@ -146,16 +146,21 @@ As a whole, Job 38 teaches that human knowledge has limitations, while divine wi
     imageCaption: "Classical illustration of sage Vishnu Sharma with the iconic animals of the Panchatantra: Pingalaka the lion, Sanjivaka the bull, the crow, and the monkey.",
     epigraph: "“Whoever learns this work and masters its lore shall never be outwitted, not even by Indra, king of heaven.” — Panchatantra Prologue",
 
-    historicalBackground: `The *Panchatantra* is an ancient Sanskrit collection of interrelated animal fables compiled over centuries and traditionally attributed to the venerable sage Vishnu Sharma. Conceived as a curriculum in *niti* (wise conduct, pragmatic ethics, and statecraft), it was composed at the request of King Amarasakti to educate his three dull-witted sons in diplomacy, governance, human psychology, and survival. 
+    historicalBackground: `The Panchatantra is an ancient Sanskrit collection of interrelated animal fables compiled over centuries and traditionally attributed to the venerable sage Vishnu Sharma. Conceived as a curriculum in niti (wise conduct, pragmatic ethics, and statecraft), it was composed at the request of King Amarasakti to educate his three dull-witted sons in diplomacy, governance, human psychology, and survival. 
 
-The work pioneered the sophisticated nested frame-story narrative technique—tales within tales—centuries before *One Thousand and One Nights* and Chaucer's *Canterbury Tales*. Migrating across continents through Pahlavi, Syriac, Arabic (*Kalila wa-Dimna*), and Latin translations, it formed the foundational bedrock of global beast fables.`,
+The work pioneered the sophisticated nested frame-story narrative technique—tales within tales—centuries before One Thousand and One Nights and Chaucer's Canterbury Tales. Migrating across continents through Pahlavi, Syriac, Arabic (Kalila wa-Dimna), and Latin translations, it formed the foundational bedrock of global beast fables.`,
 
-    storyOverview: `The work is organized into five distinct books (*pancha* = five, *tantra* = treatises):
-1. **Mitra-bheda (The Loss of Friends)**: Explores how courtly envy and malicious deceit sever the deep camaraderie between a noble lion king (Pingalaka) and a gentle bull (Sanjivaka).
-2. **Mitra-laabha (The Winning of Friends)**: Demonstrates how creatures of vastly different natures—a crow, a rat, a turtle, and a deer—achieve impossible safety through mutual loyalty and teamwork.
-3. **Sandhi-vigraha (Of Crows and Owls / War and Peace)**: A strategic allegory on espionage, tactical betrayal, and the politics of state conflict.
-4. **Labdhapranasam (Loss of What Was Won)**: The story of the monkey and the crocodile, revealing how mental resourcefulness overcomes physical peril.
-5. **Apariksitakaraka (Ill-Considered Action)**: The tragic tale of the loyal mongoose killed in haste, warning against rash emotional impulse without rational scrutiny.`,
+    storyOverview: `The work is organized into five distinct books (pancha = five, tantra = treatises):
+
+1. Mitra-bheda (The Loss of Friends): Explores how courtly envy and malicious deceit sever the deep camaraderie between a noble lion king (Pingalaka) and a gentle bull (Sanjivaka).
+
+2. Mitra-laabha (The Winning of Friends): Demonstrates how creatures of vastly different natures—a crow, a rat, a turtle, and a deer—achieve impossible safety through mutual loyalty and teamwork.
+
+3. Sandhi-vigraha (Of Crows and Owls / War and Peace): A strategic allegory on espionage, tactical betrayal, and the politics of state conflict.
+
+4. Labdhapranasam (Loss of What Was Won): The story of the monkey and the crocodile, revealing how mental resourcefulness overcomes physical peril.
+
+5. Apariksitakaraka (Ill-Considered Action): The tragic tale of the loyal mongoose killed in haste, warning against rash emotional impulse without rational scrutiny.`,
 
     majorThemes: [
       {
@@ -199,7 +204,7 @@ The work pioneered the sophisticated nested frame-story narrative technique—ta
       }
     ],
 
-    literarySignificance: `The *Panchatantra* is one of the most translated and influential secular literary works in human history. Beyond entertaining moral fables, it represents a profound psychological treatise on human motivation, institutional politics, survival instincts, and the enduring power of narrative pedagogy.`,
+    literarySignificance: `The Panchatantra is one of the most translated and influential secular literary works in human history. Beyond entertaining moral fables, it represents a profound psychological treatise on human motivation, institutional politics, survival instincts, and the enduring power of narrative pedagogy.`,
 
     // Academic Submissions for Nathaniel's Work
     appliedLensTitle: "Moral-Philosophical Lens",
@@ -239,9 +244,9 @@ As a whole, The Panchatantra teaches that wisdom is not simply about knowing man
     imageCaption: "Sacred Indian epic depiction of the Kurukshetra war chariot of Lord Krishna and Arjuna, surrounded by divine figures and classical traditions.",
     epigraph: "“What is found here may be found elsewhere; what is not found here is nowhere else.” — Mahabharata, Adi Parva",
 
-    historicalBackground: `Spanning over 100,000 verses (*shlokas*)—making it roughly ten times the length of the *Iliad* and *Odyssey* combined—the *Mahabharata* is the grandest epic of world literature. Attributed to Krishna Dvaipayana Vyasa and evolving across centuries in ancient India, it is categorized as *Itihasa* ("thus indeed it was"), blending historical memory, cosmic mythology, genealogical history, and moral philosophy. 
+    historicalBackground: `Spanning over 100,000 verses (shlokas)—making it roughly ten times the length of the Iliad and Odyssey combined—the Mahabharata is the grandest epic of world literature. Attributed to Krishna Dvaipayana Vyasa and evolving across centuries in ancient India, it is categorized as Itihasa ("thus indeed it was"), blending historical memory, cosmic mythology, genealogical history, and moral philosophy. 
 
-Set at the transitional cusp between the Dvapara Yuga and the dark Kali Yuga, the epic captures an era when ancient moral certainties crack under the weight of human ambition, familial jealousy, and conflicting codes of honor. At its philosophical nucleus lies the *Bhagavad Gita*, an immortal dialogue delivered on the precipice of war.`,
+Set at the transitional cusp between the Dvapara Yuga and the dark Kali Yuga, the epic captures an era when ancient moral certainties crack under the weight of human ambition, familial jealousy, and conflicting codes of honor. At its philosophical nucleus lies the Bhagavad Gita, an immortal dialogue delivered on the precipice of war.`,
 
     storyOverview: `The core narrative documents the catastrophic dynastic dispute between two sets of royal cousins: the five righteous Pandavas (Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva) and the one hundred Kauravas, spearheaded by the covetous Duryodhana. Following a rigged game of dice where the Pandavas lose their kingdom, their freedom, and their shared wife Draupadi is publicly humiliated in the royal assembly, the Pandavas endure twelve years of forest exile plus a year in disguise. 
 
@@ -262,7 +267,7 @@ When Duryodhana adamantly refuses to return even five villages of land, all peac
       },
       {
         title: "Spiritual Renunciation & The Bhagavad Gita",
-        description: "Selfless action without attachment to results (*nishkama karma*) stands as the ultimate spiritual refuge."
+        description: "Selfless action without attachment to results (nishkama karma) stands as the ultimate spiritual refuge."
       }
     ],
 
@@ -270,7 +275,7 @@ When Duryodhana adamantly refuses to return even five villages of land, all peac
       {
         name: "Arjuna",
         role: "The Peerless Archer",
-        description: "The third Pandava brother whose profound crisis of conscience on the battlefield elicits the *Bhagavad Gita*."
+        description: "The third Pandava brother whose profound crisis of conscience on the battlefield elicits the Bhagavad Gita."
       },
       {
         name: "Lord Krishna",
@@ -294,7 +299,7 @@ When Duryodhana adamantly refuses to return even five villages of land, all peac
       }
     ],
 
-    literarySignificance: `The *Mahabharata* is not simply an epic; it is a monumental mirror held up to human consciousness. It rejects easy black-and-white moral judgments, presenting deeply flawed heroes and sympathetic antagonists, probing every facet of governance, devotion, loss, and existential duty.`,
+    literarySignificance: `The Mahabharata is not simply an epic; it is a monumental mirror held up to human consciousness. It rejects easy black-and-white moral judgments, presenting deeply flawed heroes and sympathetic antagonists, probing every facet of governance, devotion, loss, and existential duty.`,
 
     // Academic Submissions for Nathaniel's Work
     appliedLensTitle: "Moral-Philosophical Lens",
@@ -334,9 +339,9 @@ Overall, The Mahabharata teaches that morality is not always simple and that eve
     imageCaption: "Classical painting of heroic Greek warriors clashing with shields and spears before the fortified citadel walls of Troy.",
     epigraph: "“Rage—Goddess, sing the rage of Peleus’ son Achilles, murderous, doomed, that cost the Achaeans countless losses...” — Iliad, Book 1",
 
-    historicalBackground: `Attributed to the shadowy blind bard Homer and crystallized during the 8th century BCE after centuries of oral composition by wandering rhapsodes, the *Iliad* is the foundational masterpiece of Western epic poetry. Rooted in the heroic bronze age legends of the Mycenaean civilization and the legendary siege of Ilium (Troy), the epic was composed in sweeping dactylic hexameter. 
+    historicalBackground: `Attributed to the shadowy blind bard Homer and crystallized during the 8th century BCE after centuries of oral composition by wandering rhapsodes, the Iliad is the foundational masterpiece of Western epic poetry. Rooted in the heroic bronze age legends of the Mycenaean civilization and the legendary siege of Ilium (Troy), the epic was composed in sweeping dactylic hexameter. 
 
-Rather than covering the entire ten-year Trojan War, Homer crafts an intensely focused dramatic portrait spanning a mere fifty-four days during the war's final year. The heroic ethos of archaic Greece—predicated upon *kleos aphthiton* (imperishable glory), *timē* (honor and social standing), and *aristeia* (battlefield excellence)—is scrutinized in all its breathtaking majesty and horrific savagery.`,
+Rather than covering the entire ten-year Trojan War, Homer crafts an intensely focused dramatic portrait spanning a mere fifty-four days during the war's final year. The heroic ethos of archaic Greece—predicated upon kleos aphthiton (imperishable glory), timē (honor and social standing), and aristeia (battlefield excellence)—is scrutinized in all its breathtaking majesty and horrific savagery.`,
 
     storyOverview: `The epic ignites with the catastrophic quarrel between King Agamemnon, the arrogant commander-in-chief of the Greek army, and Achilles, Greece's supreme warrior. When Agamemnon publicly dishonors Achilles by seizing the captive maiden Briseis, Achilles withdraws from combat in wrathful isolation, praying that the Trojans push the Greeks to the brink of annihilation so his indispensable military value is undeniable. 
 
@@ -389,7 +394,7 @@ Without Achilles, the Achaean front crumbles. Desperate to rally the Greeks, Ach
       }
     ],
 
-    literarySignificance: `The *Iliad* laid the architectural foundation for European dramatic and poetic structure. From its extended epic similes to its complex exploration of fate, mortality, and compassion, it continues to serve as world literature's most unflinching meditation on human glory and vulnerability.`,
+    literarySignificance: `The Iliad laid the architectural foundation for European dramatic and poetic structure. From its extended epic similes to its complex exploration of fate, mortality, and compassion, it continues to serve as world literature's most unflinching meditation on human glory and vulnerability.`,
 
     // Academic Submissions for Nathaniel's Work
     appliedLensTitle: "Humanist Lens",
@@ -430,9 +435,9 @@ Overall, The Iliad presents a powerful picture of human nature through its chara
     imageCaption: "Classical engraving of King Odysseus armed with sword and shield standing at the prow of his ship upon approaching Ithaca.",
     epigraph: "“Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the hallowed heights of Troy.” — Odyssey, Book 1",
 
-    historicalBackground: `Serving as the counterpart and narrative sequel to the martial tragedy of the *Iliad*, Homer's *Odyssey* shifts the epic lens from the blood-soaked battlefield of Troy to the perilous sea lanes and domestic hearths of the wider Mediterranean world. Composed in dactylic hexameter during the Greek Renaissance of the 8th century BCE, the work reflects the burgeoning maritime voyages, colonial expeditions, and cultural encounters of the era. 
+    historicalBackground: `Serving as the counterpart and narrative sequel to the martial tragedy of the Iliad, Homer's Odyssey shifts the epic lens from the blood-soaked battlefield of Troy to the perilous sea lanes and domestic hearths of the wider Mediterranean world. Composed in dactylic hexameter during the Greek Renaissance of the 8th century BCE, the work reflects the burgeoning maritime voyages, colonial expeditions, and cultural encounters of the era. 
 
-Where the *Iliad* celebrated Achilles' brute strength and battlefield fury (*bie*), the *Odyssey* elevates *metis*—cunning intellect, linguistic adaptability, patience, and disguise. Central to the epic's moral universe is the sacred institution of *xenia* (guest-host hospitality), protected by Zeus Xenios, which serves as the ultimate litmus test for human civilization.`,
+Where the Iliad celebrated Achilles' brute strength and battlefield fury (bie), the Odyssey elevates metis—cunning intellect, linguistic adaptability, patience, and disguise. Central to the epic's moral universe is the sacred institution of xenia (guest-host hospitality), protected by Zeus Xenios, which serves as the ultimate litmus test for human civilization.`,
 
     storyOverview: `The narrative tracks the agonizing ten-year voyage of Odysseus, King of Ithaca, as he strives to return home after the fall of Troy. Presumed dead after twenty years of total absence, his palace is infested by over a hundred arrogant suitors who devour his estate and harass his faithful queen, Penelope, while his maturing son Telemachus journeys across Greece seeking news of his father. 
 
@@ -485,7 +490,7 @@ Through nonlinear narrative and captivating first-person flashbacks in the court
       }
     ],
 
-    literarySignificance: `The *Odyssey* is the archetypal wanderer's tale that shaped the hero's journey in world literature. Pioneering nonlinear structure, interior monologues, unreliable narration, and the myth of home, it influenced James Joyce's *Ulysses*, Dante's *Inferno*, and countless cinematic and literary adaptations.`,
+    literarySignificance: `The Odyssey is the archetypal wanderer's tale that shaped the hero's journey in world literature. Pioneering nonlinear structure, interior monologues, unreliable narration, and the myth of home, it influenced James Joyce's Ulysses, Dante's Inferno, and countless cinematic and literary adaptations.`,
 
     // Academic Submissions for Nathaniel's Work
     appliedLensTitle: "Archetypal Lens",
@@ -526,13 +531,13 @@ Overall, The Odyssey teaches that every journey involves obstacles and opportuni
     imageCaption: "Medieval artwork and illuminated tapestry depicting Count Roland, Charlemagne, and the chivalric warriors of the Battle of Roncevaux Pass.",
     epigraph: "“Roland is valiant and Oliver is wise, and both are men of amazing prowess.” — The Song of Roland, Verse 87",
 
-    historicalBackground: `Composed anonymously in Old French during the late 11th century (at the dawn of the First Crusade), *The Song of Roland* (*La Chanson de Roland*) is the oldest and greatest surviving masterpiece of the French *chansons de geste* ("songs of heroic deeds"). 
+    historicalBackground: `Composed anonymously in Old French during the late 11th century (at the dawn of the First Crusade), The Song of Roland (La Chanson de Roland) is the oldest and greatest surviving masterpiece of the French chansons de geste ("songs of heroic deeds"). 
 
 While the poem is loosely based on a historical ambush in 778 CE where Basque mountain warriors attacked the rearguard of King Charlemagne's army in the Pyrenees mountains, the 11th-century epic transforms the event into a momentous religious and national confrontation between Christian crusader chivalry and the Saracen forces of Spain. The poem provides an invaluable window into High Middle Ages feudalism, the sacred bond of vassalage, code of chivalry, and heroic martyrdom.`,
 
     storyOverview: `After seven years of successful campaigning in Spain, Emperor Charlemagne prepares to return home to Aix, accepting a peace proposal from Marsile, the Muslim king of Saragossa. Roland, Charlemagne's brilliant yet reckless nephew, nominates his resentful stepfather Ganelon to undertake the hazardous embassy to finalize the treaty. Suspecting Roland intended to send him to his death, Ganelon plots treacherous revenge, secretly conspiring with Marsile to ambush the French rearguard under Roland's command in the mountain pass of Roncevaux. 
 
-When the 20,000 rear troops are overwhelmed by an army of hundreds of thousands, Roland's wise companion Oliver urges him to sound his ivory horn (*olifant*) to summon Charlemagne. Bound by proud heroic honor, Roland stubbornly refuses to blow the horn until his entire army lies butchered. Roland finally blows the olifant with such superhuman force that his temples burst. Dying with his face turned toward Spain and holding up his glove to God, angels descend to carry Roland's soul directly to paradise, after which Charlemagne returns to conquer the enemy and execute the traitor Ganelon.`,
+When the 20,000 rear troops are overwhelmed by an army of hundreds of thousands, Roland's wise companion Oliver urges him to sound his ivory horn (olifant) to summon Charlemagne. Bound by proud heroic honor, Roland stubbornly refuses to blow the horn until his entire army lies butchered. Roland finally blows the olifant with such superhuman force that his temples burst. Dying with his face turned toward Spain and holding up his glove to God, angels descend to carry Roland's soul directly to paradise, after which Charlemagne returns to conquer the enemy and execute the traitor Ganelon.`,
 
     majorThemes: [
       {
@@ -541,7 +546,7 @@ When the 20,000 rear troops are overwhelmed by an army of hundreds of thousands,
       },
       {
         title: "Valor vs. Prudence (Roland vs. Oliver)",
-        description: "The eternal tension between audacious battlefield heroism (*prowess*) and prudent restraint (*wisdom*)."
+        description: "The eternal tension between audacious battlefield heroism (prowess) and prudent restraint (wisdom)."
       },
       {
         title: "Treason, Betrayal, and Retribution",
@@ -581,7 +586,7 @@ When the 20,000 rear troops are overwhelmed by an army of hundreds of thousands,
       }
     ],
 
-    literarySignificance: `*The Song of Roland* crystallized the medieval chivalric ideal, defining the French national epic tradition. It stands as a profound study in the tragic price of human hubris, the nature of comradeship, and the cultural worldview of medieval feudal Europe.`,
+    literarySignificance: `The Song of Roland crystallized the medieval chivalric ideal, defining the French national epic tradition. It stands as a profound study in the tragic price of human hubris, the nature of comradeship, and the cultural worldview of medieval feudal Europe.`,
 
     // Academic Submissions for Nathaniel's Work
     appliedLensTitle: "Historical-Cultural Lens",
@@ -620,9 +625,9 @@ From my perspective, The Song of Roland reminds me that loyalty, courage, and re
     imageCaption: "Classical Japanese Yamato-e gold-leaf painting illustrating Prince Genji, Lady Murasaki, and court maidens in the imperial palace garden.",
     epigraph: "“In the world there are many who are sensitive to the beauty of flowers and the sadness of the moon...” — Murasaki Shikibu",
 
-    historicalBackground: `Written during the golden dawn of the 11th century by Murasaki Shikibu, a noblewoman and lady-in-waiting at the imperial court of Empress Shōshi in Kyoto, *The Tale of Genji* (*Genji Monogatari*) is widely celebrated by literary historians as the world's first psychological novel. 
+    historicalBackground: `Written during the golden dawn of the 11th century by Murasaki Shikibu, a noblewoman and lady-in-waiting at the imperial court of Empress Shōshi in Kyoto, The Tale of Genji (Genji Monogatari) is widely celebrated by literary historians as the world's first psychological novel. 
 
-Composed in the vernacular Japanese script (*kana*) developed primarily by women—who were excluded from official Chinese scholarly study—the novel comprises 54 chapters spanning multiple generations. It reflects the supreme aesthetic refinement of the Heian aristocracy, steeped in Buddhist concepts of impermanence (*anicca* / *mujō*), karmic cause and consequence, and the exquisite bittersweet awareness of the transience of all worldly beauty (*mono no aware*).`,
+Composed in the vernacular Japanese script (kana) developed primarily by women—who were excluded from official Chinese scholarly study—the novel comprises 54 chapters spanning multiple generations. It reflects the supreme aesthetic refinement of the Heian aristocracy, steeped in Buddhist concepts of impermanence (anicca / mujō), karmic cause and consequence, and the exquisite bittersweet awareness of the transience of all worldly beauty (mono no aware).`,
 
     storyOverview: `The novel depicts the romantic, social, and political life of Hikaru Genji ("The Shining Prince"), the impossibly handsome and artistically gifted son of Emperor Kiritsubo. Demoted to commoner status for astrological reasons and given the clan name Minamoto, Genji navigates the delicate maze of courtly protocol, aristocratic factionalism, and romantic pursuits. 
 
@@ -666,7 +671,7 @@ Haunted by the memory of his deceased mother, Genji pursues illicit liaisons—m
       {
         name: "Lady Rokujō",
         role: "Aristocratic Lover",
-        description: "A refined, proud woman whose repressed agony and jealousy inadvertently manifest as a living spirit (*ikiryō*)."
+        description: "A refined, proud woman whose repressed agony and jealousy inadvertently manifest as a living spirit (ikiryō)."
       },
       {
         name: "Murasaki Shikibu",
@@ -675,7 +680,7 @@ Haunted by the memory of his deceased mother, Genji pursues illicit liaisons—m
       }
     ],
 
-    literarySignificance: `*The Tale of Genji* is universally acclaimed as the supreme masterpiece of Japanese classical literature. Anticipating modern psychological fiction by nearly eight centuries, Murasaki Shikibu created a breathtakingly complex tapestry of human desire, grief, aesthetics, and metaphysical transience.`,
+    literarySignificance: `The Tale of Genji is universally acclaimed as the supreme masterpiece of Japanese classical literature. Anticipating modern psychological fiction by nearly eight centuries, Murasaki Shikibu created a breathtakingly complex tapestry of human desire, grief, aesthetics, and metaphysical transience.`,
 
     // Academic Submissions for Nathaniel's Work
     appliedLensTitle: "Psychological Lens",
