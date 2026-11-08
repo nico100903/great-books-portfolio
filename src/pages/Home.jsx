@@ -71,11 +71,11 @@ export default function Home() {
               {/* Student Academic Card Highlight */}
               <div className="p-5 rounded-2xl bg-ivory-light border border-beige-dark/60 shadow-sm flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                 <div className="flex items-center space-x-3.5">
-                  <div className="w-12 h-12 rounded-xl bg-forest text-gold flex items-center justify-center font-serif text-xl font-bold shadow-inner overflow-hidden border border-gold/40">
+                  <div className="w-12 h-14 rounded-xl bg-forest text-gold flex items-center justify-center font-serif text-xl font-bold shadow-inner overflow-hidden border border-gold/40">
                     <img 
                       src={studentInfo.profilePhoto} 
                       alt={studentInfo.name} 
-                      className="w-full h-full object-cover" 
+                      className="w-full h-full object-cover object-top" 
                       onError={(e) => { e.target.style.display = 'none'; }}
                     />
                   </div>

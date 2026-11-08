@@ -51,14 +51,14 @@ export default function StudentProfile() {
           <div className="lg:col-span-4 flex flex-col items-center text-center">
             <div className="relative group">
               {/* Decorative Glow */}
-              <div className="absolute -inset-2 rounded-full bg-gradient-to-tr from-gold/40 to-sage/40 blur-md group-hover:blur-lg transition-all"></div>
+              <div className="absolute -inset-2 rounded-3xl bg-gradient-to-tr from-gold/40 to-sage/40 blur-md group-hover:blur-lg transition-all"></div>
               
-              {/* Profile Image / Fallback Container */}
-              <div className="relative w-44 h-44 sm:w-52 sm:h-52 rounded-full overflow-hidden border-4 border-ivory shadow-book bg-forest flex items-center justify-center text-ivory">
+              {/* Profile Image / Portrait Container */}
+              <div className="relative w-52 sm:w-60 h-72 sm:h-84 rounded-3xl overflow-hidden border-4 border-ivory shadow-book-lg bg-forest-dark flex items-center justify-center text-ivory">
                 <img
                   src={studentInfo.profilePhoto}
                   alt={studentInfo.name}
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
                     // Fallback to stylized SVG monogram if custom photo fails
                     e.target.src = "/images/student-profile.svg";
