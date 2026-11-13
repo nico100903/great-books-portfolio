@@ -954,7 +954,7 @@ export const personalReflectionData = {
       question: "How has your understanding and appreciation of literature changed throughout the course?",
       contextGuide: "Reflect on how your perspective shifted from viewing literature as mere required reading or entertainment to recognizing it as an analytical art form and profound philosophical dialogue.",
       responseLabel: "My Response to Question 1",
-      studentResponse: "Before taking Great Books, I mostly viewed literature as something we needed to read for academic requirements or entertainment. However, throughout the course, I realized that literary works offer more than just interesting stories. They contain meaningful lessons about life, culture, human emotions, and society. Reading masterpieces from different periods helped me understand different perspectives and appreciate the deeper meanings behind their stories. Now, I see literature as a way of understanding people and the world around me, not just something to read for school."
+      studentResponse: "Before joining this class, I used to see literature as something that I had to read either because of educational purposes or for entertainment. However, while studying throughout this course, I have understood that books give us something more than interesting stories; they give us lessons on how to live our lives, what kind of culture we have, what emotions we should experience, and how we fit into the social structure of our societies. Studying masterpieces written during different epochs, I was able to learn different views and interpretations of these stories."
     },
     {
       id: "q2",
@@ -962,7 +962,7 @@ export const personalReflectionData = {
       question: "What challenges did you encounter when reading and analyzing literary masterpieces, and how did you overcome them?",
       contextGuide: "Consider archaic language, cultural distances, philosophical density, time management alongside computer science coursework, and the strategies you adopted to master difficult texts.",
       responseLabel: "My Response to Question 2",
-      studentResponse: "One challenge I encountered was understanding some literary works because of their unfamiliar language, historical backgrounds, and cultural references. Some stories also contained complicated characters and situations that required more time to understand. I overcame these challenges by reading carefully, reviewing important parts of the stories, and focusing on their main themes and messages. As a BSCS student, managing my academic responsibilities also required time management. Through patience and consistent effort, I was able to understand the works better and appreciate their lessons."
+      studentResponse: "The challenge that I had experienced was the fact that some literary pieces were difficult to comprehend due to their foreign languages and culture. Other stories have had complex characters and storylines that make it hard for one to comprehend. I dealt with these challenges through the careful reading of the literary pieces, going through significant parts and understanding the theme of the piece. Being a BSCS student, juggling with academic activities needs proper time management."
     },
     {
       id: "q3",
@@ -970,7 +970,7 @@ export const personalReflectionData = {
       question: "Which literary lens or approach influenced your interpretation of literature the most? Why?",
       contextGuide: "Identify the critical lens (e.g., Moral-Philosophical, Psychological, Structuralist, Historical, Marxist, Feminist, etc.) that resonated most with your analytical mindset and explain its impact on your interpretations.",
       responseLabel: "My Response to Question 3",
-      studentResponse: "The Moral-Philosophical approach influenced my interpretation of literature the most because it focuses on the values, decisions, and lessons presented in a story. I find it interesting to understand why characters make certain decisions and how their actions affect themselves and others. Through this approach, I learned to look beyond what happens in a story and reflect on its meaning in real life. It also helped me understand that literary works can teach valuable lessons about responsibility, morality, and human behavior."
+      studentResponse: "The Moral-Philosophical approach affected my perception of literary texts the most, since it considers the values, decisions, and lessons learned from a story. It is interesting for me to know the reasons for the choices made by characters and the way they influence not only themselves, but also other people. Using this approach, I have learned to analyze the text from a perspective which allows going beyond the plot and understanding the message of the work in everyday life."
     },
     {
       id: "q4",
@@ -978,7 +978,7 @@ export const personalReflectionData = {
       question: "What important realizations about life, society, culture, or human nature have you gained?",
       contextGuide: "Synthesize the overarching truths you recognized across the seven masterpieces regarding justice, pride, mortality, power, loyalty, and human resilience.",
       responseLabel: "My Response to Question 4",
-      studentResponse: "One important realization I gained is that people may come from different cultures and historical periods, but many of their struggles and emotions are similar. Through the masterpieces we studied, I learned about the importance of loyalty, perseverance, humility, wisdom, and understanding others. I also realized that pride, anger, and poor decisions can lead to serious consequences. These stories reminded me that life is not always easy, and that understanding different perspectives can help us become more patient, respectful, and open-minded."
+      studentResponse: "An insight that was particularly valuable for me is that despite being part of various cultures and belonging to various times in history, the problems and feelings people had were the same. From the masterpieces covered in class, I have learned the significance of loyalty, perseverance, humbleness, wisdom, and compassion towards other people. Also, I understood that such things as pride, wrath, and unwise actions could bring significant harm. This knowledge showed that life is not always easy and that learning how to understand various perspectives will make you more tolerant."
     },
     {
       id: "q5",
@@ -986,7 +986,7 @@ export const personalReflectionData = {
       question: "How can you apply the lessons and values learned from Great Books in your personal, academic, or future professional life?",
       contextGuide: "Bridge the humanistic lessons of literature with your future career as a computer scientist, software engineer, or technology leader—focusing on empathy, ethics, teamwork, and critical problem solving.",
       responseLabel: "My Response to Question 5",
-      studentResponse: "I can apply the lessons from Great Books by becoming more patient, responsible, and understanding in my everyday life. As a BSCS student, I believe that critical thinking, problem-solving, and considering different perspectives are important not only in academics but also in my future career. The lessons about loyalty, perseverance, and responsibility can also guide me when working with other people and facing challenges. As I prepare for my future profession, I want to remember that being successful in technology is not only about having technical skills but also about having good values, empathy, and respect for others."
+      studentResponse: "One can utilize the lessons learned from Great Books by developing patience, responsibility, and understanding on the part of the individual in his day-to-day activities. Being a BSCS student, I feel that critical thinking, problem solving, and perspective taking are not only essential in academic pursuits, but are equally relevant to my future professional career. The lessons of loyalty, perseverance, and responsibility will prove equally helpful while dealing with individuals as well as challenges. As I prepare myself for my future profession, I must understand that success in technology is not just about technological skills, but equally about values and empathy towards others."
     }
   ]
 };
